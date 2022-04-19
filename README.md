@@ -1,2 +1,2 @@
 # Minicraft classic
-- A mod/fork of ([Minicraft plus](https://github.com/MinicraftPlus/minicraft-plus-revived)) with the purpose of maintaining and updating the original code (version 2.0.7) following the Minicraft ideas and art styles
+- A mod/fork of([Minicraft](https://github.com/Shylor/miniventure)) with the purpose of maintaining, improve and updating the Shylor's miniventure following the Minicraft ideas and art styles
